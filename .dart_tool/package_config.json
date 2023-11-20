@@ -440,13 +440,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "json_serializable",
+      "name": "flexible_json_serializable",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-11-20T02:35:38.974590Z",
+  "generated": "2023-11-20T04:18:53.643777Z",
   "generator": "pub",
   "generatorVersion": "3.2.0"
 }
